@@ -29,6 +29,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Sivarman/Leetcode/tree/master/0125-valid-palindrome) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sivarman/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Bit Manipulation
 |  |
@@ -38,4 +39,8 @@
 |  |
 | ------- |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sivarman/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Sivarman/Leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
