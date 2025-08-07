@@ -6,6 +6,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sivarman/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Sivarman/Leetcode/tree/master/0009-palindrome-number) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Sivarman/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Sivarman/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2752-sum-multiples](https://github.com/Sivarman/Leetcode/tree/master/2752-sum-multiples) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sivarman/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -21,6 +22,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sivarman/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Sivarman/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Sivarman/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sivarman/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sivarman/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
