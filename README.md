@@ -35,6 +35,7 @@
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sivarman/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Sivarman/Leetcode/tree/master/0125-valid-palindrome) |
 | [0782-jewels-and-stones](https://github.com/Sivarman/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Sivarman/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -52,6 +53,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sivarman/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Sivarman/Leetcode/tree/master/0125-valid-palindrome) |
 | [2128-reverse-prefix-of-word](https://github.com/Sivarman/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 ## Binary Search
@@ -70,4 +72,8 @@
 |  |
 | ------- |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Sivarman/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sivarman/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
