@@ -6,6 +6,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sivarman/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Sivarman/Leetcode/tree/master/0009-palindrome-number) |
+| [0507-perfect-number](https://github.com/Sivarman/Leetcode/tree/master/0507-perfect-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Sivarman/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Sivarman/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2752-sum-multiples](https://github.com/Sivarman/Leetcode/tree/master/2752-sum-multiples) |
