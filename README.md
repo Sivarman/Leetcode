@@ -13,6 +13,7 @@
 | [2752-sum-multiples](https://github.com/Sivarman/Leetcode/tree/master/2752-sum-multiples) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sivarman/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sivarman/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sivarman/Leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Linked List
 |  |
 | ------- |
@@ -36,6 +37,7 @@
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Sivarman/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sivarman/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sivarman/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sivarman/Leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
