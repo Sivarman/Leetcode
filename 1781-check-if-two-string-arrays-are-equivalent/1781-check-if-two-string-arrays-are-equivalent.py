@@ -7,7 +7,5 @@ class Solution(object):
         for i in word2:
             word4+=i
         return word3==word4
-             
-        
 
         
