@@ -5,5 +5,3 @@ class Solution(object):
             a+=stones.count(i)
             
         return a
-
-        
