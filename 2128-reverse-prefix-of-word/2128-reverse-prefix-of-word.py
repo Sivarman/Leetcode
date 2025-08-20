@@ -6,4 +6,3 @@ class Solution(object):
             
         return word
                 
-        
