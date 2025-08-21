@@ -6,5 +6,4 @@ class Solution(object):
                 X+=1
             else:
                 X-=1
-        return X                
-        
+        return X       
