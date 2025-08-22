@@ -53,6 +53,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sivarman/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Sivarman/Leetcode/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/Sivarman/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0742-to-lower-case](https://github.com/Sivarman/Leetcode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/Sivarman/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Sivarman/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -75,6 +76,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sivarman/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Sivarman/Leetcode/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/Sivarman/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [2128-reverse-prefix-of-word](https://github.com/Sivarman/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Sivarman/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Sivarman/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
