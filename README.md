@@ -39,6 +39,7 @@
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Sivarman/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Sivarman/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Sivarman/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Sivarman/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sivarman/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sivarman/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sivarman/Leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -48,6 +49,7 @@
 | [0268-missing-number](https://github.com/Sivarman/Leetcode/tree/master/0268-missing-number) |
 | [0782-jewels-and-stones](https://github.com/Sivarman/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sivarman/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Sivarman/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sivarman/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## String
 |  |
@@ -73,6 +75,7 @@
 |  |
 | ------- |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sivarman/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Sivarman/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Two Pointers
 |  |
 | ------- |
