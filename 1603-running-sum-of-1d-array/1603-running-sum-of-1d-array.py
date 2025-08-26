@@ -7,5 +7,5 @@ class Solution(object):
                 sum1+=nums[j]
             a.append(sum1)
             sum1=0
-        return a    
+        return a
         
