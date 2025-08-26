@@ -4,6 +4,5 @@ class Solution(object):
             if(i[::1]==i[::-1]):
                 return i
         return "" 
-                
-        
+
         
