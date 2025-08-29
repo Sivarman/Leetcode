@@ -40,6 +40,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Sivarman/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Sivarman/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Sivarman/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Sivarman/Leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sivarman/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Sivarman/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Sivarman/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
