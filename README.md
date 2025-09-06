@@ -57,6 +57,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/Sivarman/Leetcode/tree/master/0268-missing-number) |
 | [0782-jewels-and-stones](https://github.com/Sivarman/Leetcode/tree/master/0782-jewels-and-stones) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Sivarman/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Sivarman/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sivarman/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/Sivarman/Leetcode/tree/master/1848-sum-of-unique-elements) |
@@ -75,6 +76,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Sivarman/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0742-to-lower-case](https://github.com/Sivarman/Leetcode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/Sivarman/Leetcode/tree/master/0782-jewels-and-stones) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Sivarman/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Sivarman/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sivarman/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Sivarman/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
@@ -93,6 +95,7 @@
 ## Counting
 |  |
 | ------- |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Sivarman/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Sivarman/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sivarman/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Sivarman/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
