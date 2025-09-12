@@ -98,6 +98,7 @@
 | [2190-count-common-words-with-one-occurrence](https://github.com/Sivarman/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Sivarman/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Sivarman/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2235-capitalize-the-title](https://github.com/Sivarman/Leetcode/tree/master/2235-capitalize-the-title) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Sivarman/Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Sivarman/Leetcode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Sivarman/Leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
