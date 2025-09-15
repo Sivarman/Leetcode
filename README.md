@@ -93,6 +93,7 @@
 | [0742-to-lower-case](https://github.com/Sivarman/Leetcode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/Sivarman/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sivarman/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1205-defanging-an-ip-address](https://github.com/Sivarman/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Sivarman/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sivarman/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Sivarman/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
