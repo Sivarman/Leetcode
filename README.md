@@ -58,6 +58,7 @@
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sivarman/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Sivarman/Leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Sivarman/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Sivarman/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Sivarman/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Sivarman/Leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Sivarman/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
@@ -117,6 +118,7 @@
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Sivarman/Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Sivarman/Leetcode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Sivarman/Leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Sivarman/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3567-convert-date-to-binary](https://github.com/Sivarman/Leetcode/tree/master/3567-convert-date-to-binary) |
 ## Bit Manipulation
 |  |
