@@ -112,6 +112,7 @@
 | [1823-determine-if-string-halves-are-alike](https://github.com/Sivarman/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1944-truncate-sentence](https://github.com/Sivarman/Leetcode/tree/master/1944-truncate-sentence) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Sivarman/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [1970-sorting-the-sentence](https://github.com/Sivarman/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Sivarman/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2128-reverse-prefix-of-word](https://github.com/Sivarman/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Sivarman/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -200,6 +201,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/Sivarman/Leetcode/tree/master/0268-missing-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sivarman/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1970-sorting-the-sentence](https://github.com/Sivarman/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Sivarman/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Sivarman/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Prefix Sum
