@@ -94,6 +94,7 @@
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Sivarman/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Sivarman/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sivarman/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Sivarman/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## String
 |  |
 | ------- |
@@ -127,6 +128,7 @@
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Sivarman/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Sivarman/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3567-convert-date-to-binary](https://github.com/Sivarman/Leetcode/tree/master/3567-convert-date-to-binary) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Sivarman/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -151,6 +153,7 @@
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Sivarman/Leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Sivarman/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Sivarman/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Sivarman/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Two Pointers
 |  |
 | ------- |
