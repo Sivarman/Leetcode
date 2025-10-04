@@ -126,6 +126,7 @@
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Sivarman/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2128-reverse-prefix-of-word](https://github.com/Sivarman/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Sivarman/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Sivarman/Leetcode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Sivarman/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Sivarman/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Sivarman/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
