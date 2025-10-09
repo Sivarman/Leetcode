@@ -13,6 +13,7 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Sivarman/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Sivarman/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1610-xor-operation-in-an-array](https://github.com/Sivarman/Leetcode/tree/master/1610-xor-operation-in-an-array) |
+| [2507-number-of-common-factors](https://github.com/Sivarman/Leetcode/tree/master/2507-number-of-common-factors) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Sivarman/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sivarman/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2752-sum-multiples](https://github.com/Sivarman/Leetcode/tree/master/2752-sum-multiples) |
@@ -246,8 +247,13 @@
 | ------- |
 | [1656-count-good-triplets](https://github.com/Sivarman/Leetcode/tree/master/1656-count-good-triplets) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Sivarman/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2507-number-of-common-factors](https://github.com/Sivarman/Leetcode/tree/master/2507-number-of-common-factors) |
 ## Greedy
 |  |
 | ------- |
 | [3055-maximum-odd-binary-number](https://github.com/Sivarman/Leetcode/tree/master/3055-maximum-odd-binary-number) |
+## Number Theory
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/Sivarman/Leetcode/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
