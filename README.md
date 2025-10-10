@@ -13,6 +13,7 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Sivarman/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Sivarman/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1610-xor-operation-in-an-array](https://github.com/Sivarman/Leetcode/tree/master/1610-xor-operation-in-an-array) |
+| [1965-sum-of-digits-in-base-k](https://github.com/Sivarman/Leetcode/tree/master/1965-sum-of-digits-in-base-k) |
 | [2507-number-of-common-factors](https://github.com/Sivarman/Leetcode/tree/master/2507-number-of-common-factors) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Sivarman/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sivarman/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
