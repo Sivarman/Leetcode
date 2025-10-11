@@ -14,6 +14,7 @@
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Sivarman/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1610-xor-operation-in-an-array](https://github.com/Sivarman/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1965-sum-of-digits-in-base-k](https://github.com/Sivarman/Leetcode/tree/master/1965-sum-of-digits-in-base-k) |
+| [2481-strictly-palindromic-number](https://github.com/Sivarman/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2507-number-of-common-factors](https://github.com/Sivarman/Leetcode/tree/master/2507-number-of-common-factors) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Sivarman/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sivarman/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -183,6 +184,7 @@
 | [2128-reverse-prefix-of-word](https://github.com/Sivarman/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Sivarman/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Sivarman/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2481-strictly-palindromic-number](https://github.com/Sivarman/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Sivarman/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Sivarman/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Binary Search
@@ -257,4 +259,8 @@
 |  |
 | ------- |
 | [2507-number-of-common-factors](https://github.com/Sivarman/Leetcode/tree/master/2507-number-of-common-factors) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/Sivarman/Leetcode/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
