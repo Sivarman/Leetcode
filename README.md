@@ -26,6 +26,7 @@
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sivarman/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Sivarman/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sivarman/Leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/Sivarman/Leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Linked List
 |  |
 | ------- |
@@ -259,6 +260,7 @@
 |  |
 | ------- |
 | [2507-number-of-common-factors](https://github.com/Sivarman/Leetcode/tree/master/2507-number-of-common-factors) |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/Sivarman/Leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Brainteaser
 |  |
 | ------- |
