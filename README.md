@@ -109,6 +109,7 @@
 | [2594-count-pairs-of-similar-strings](https://github.com/Sivarman/Leetcode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Sivarman/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Sivarman/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3408-count-the-number-of-special-characters-i](https://github.com/Sivarman/Leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Sivarman/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Sivarman/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sivarman/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -148,6 +149,7 @@
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Sivarman/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Sivarman/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3055-maximum-odd-binary-number](https://github.com/Sivarman/Leetcode/tree/master/3055-maximum-odd-binary-number) |
+| [3408-count-the-number-of-special-characters-i](https://github.com/Sivarman/Leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3567-convert-date-to-binary](https://github.com/Sivarman/Leetcode/tree/master/3567-convert-date-to-binary) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Sivarman/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Bit Manipulation
