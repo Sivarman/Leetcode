@@ -92,6 +92,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Sivarman/Leetcode/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/Sivarman/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/Sivarman/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sivarman/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Sivarman/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -124,6 +125,7 @@
 | [0058-length-of-last-word](https://github.com/Sivarman/Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Sivarman/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Sivarman/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Sivarman/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0520-detect-capital](https://github.com/Sivarman/Leetcode/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sivarman/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/Sivarman/Leetcode/tree/master/0742-to-lower-case) |
@@ -168,6 +170,7 @@
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Sivarman/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sivarman/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Sivarman/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sivarman/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -279,4 +282,8 @@
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/Sivarman/Leetcode/tree/master/2481-strictly-palindromic-number) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Sivarman/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
