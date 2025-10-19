@@ -105,6 +105,7 @@
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Sivarman/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Sivarman/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Sivarman/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Sivarman/Leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Sivarman/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Sivarman/Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Sivarman/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
@@ -144,6 +145,7 @@
 | [2128-reverse-prefix-of-word](https://github.com/Sivarman/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Sivarman/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Sivarman/Leetcode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Sivarman/Leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Sivarman/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Sivarman/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Sivarman/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -178,6 +180,7 @@
 | [1848-sum-of-unique-elements](https://github.com/Sivarman/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Sivarman/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Sivarman/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Sivarman/Leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Sivarman/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Sivarman/Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2486-most-frequent-even-element](https://github.com/Sivarman/Leetcode/tree/master/2486-most-frequent-even-element) |
