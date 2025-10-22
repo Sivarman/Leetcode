@@ -88,6 +88,7 @@
 | [3582-find-indices-of-stable-mountains](https://github.com/Sivarman/Leetcode/tree/master/3582-find-indices-of-stable-mountains) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Sivarman/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sivarman/Leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [4058-compute-alternating-sum](https://github.com/Sivarman/Leetcode/tree/master/4058-compute-alternating-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -231,6 +232,7 @@
 | [2886-faulty-keyboard](https://github.com/Sivarman/Leetcode/tree/master/2886-faulty-keyboard) |
 | [3226-minimum-number-game](https://github.com/Sivarman/Leetcode/tree/master/3226-minimum-number-game) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Sivarman/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [4058-compute-alternating-sum](https://github.com/Sivarman/Leetcode/tree/master/4058-compute-alternating-sum) |
 ## String Matching
 |  |
 | ------- |
