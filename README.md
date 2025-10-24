@@ -16,6 +16,7 @@
 | [1965-sum-of-digits-in-base-k](https://github.com/Sivarman/Leetcode/tree/master/1965-sum-of-digits-in-base-k) |
 | [2481-strictly-palindromic-number](https://github.com/Sivarman/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2507-number-of-common-factors](https://github.com/Sivarman/Leetcode/tree/master/2507-number-of-common-factors) |
+| [2571-find-the-pivot-integer](https://github.com/Sivarman/Leetcode/tree/master/2571-find-the-pivot-integer) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Sivarman/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sivarman/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2752-sum-multiples](https://github.com/Sivarman/Leetcode/tree/master/2752-sum-multiples) |
@@ -262,6 +263,7 @@
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/Sivarman/Leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [2571-find-the-pivot-integer](https://github.com/Sivarman/Leetcode/tree/master/2571-find-the-pivot-integer) |
 ## Counting Sort
 |  |
 | ------- |
