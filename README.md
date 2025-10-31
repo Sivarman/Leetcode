@@ -60,6 +60,7 @@
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Sivarman/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sivarman/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/Sivarman/Leetcode/tree/master/1791-richest-customer-wealth) |
+| [1839-decode-xored-array](https://github.com/Sivarman/Leetcode/tree/master/1839-decode-xored-array) |
 | [1848-sum-of-unique-elements](https://github.com/Sivarman/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1944-truncate-sentence](https://github.com/Sivarman/Leetcode/tree/master/1944-truncate-sentence) |
 | [2102-find-the-middle-index-in-array](https://github.com/Sivarman/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
@@ -182,6 +183,7 @@
 | [0268-missing-number](https://github.com/Sivarman/Leetcode/tree/master/0268-missing-number) |
 | [1610-xor-operation-in-an-array](https://github.com/Sivarman/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sivarman/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1839-decode-xored-array](https://github.com/Sivarman/Leetcode/tree/master/1839-decode-xored-array) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Sivarman/Leetcode/tree/master/2594-count-pairs-of-similar-strings) |
 ## Counting
 |  |
