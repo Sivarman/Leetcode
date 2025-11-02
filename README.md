@@ -176,6 +176,7 @@
 | [3408-count-the-number-of-special-characters-i](https://github.com/Sivarman/Leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3567-convert-date-to-binary](https://github.com/Sivarman/Leetcode/tree/master/3567-convert-date-to-binary) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Sivarman/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3811-reverse-degree-of-a-string](https://github.com/Sivarman/Leetcode/tree/master/3811-reverse-degree-of-a-string) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Sivarman/Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Bit Manipulation
 |  |
@@ -248,6 +249,7 @@
 | [2886-faulty-keyboard](https://github.com/Sivarman/Leetcode/tree/master/2886-faulty-keyboard) |
 | [3226-minimum-number-game](https://github.com/Sivarman/Leetcode/tree/master/3226-minimum-number-game) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Sivarman/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3811-reverse-degree-of-a-string](https://github.com/Sivarman/Leetcode/tree/master/3811-reverse-degree-of-a-string) |
 | [4058-compute-alternating-sum](https://github.com/Sivarman/Leetcode/tree/master/4058-compute-alternating-sum) |
 ## String Matching
 |  |
