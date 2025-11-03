@@ -14,6 +14,7 @@
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Sivarman/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1610-xor-operation-in-an-array](https://github.com/Sivarman/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1965-sum-of-digits-in-base-k](https://github.com/Sivarman/Leetcode/tree/master/1965-sum-of-digits-in-base-k) |
+| [2238-a-number-after-a-double-reversal](https://github.com/Sivarman/Leetcode/tree/master/2238-a-number-after-a-double-reversal) |
 | [2481-strictly-palindromic-number](https://github.com/Sivarman/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2507-number-of-common-factors](https://github.com/Sivarman/Leetcode/tree/master/2507-number-of-common-factors) |
 | [2571-find-the-pivot-integer](https://github.com/Sivarman/Leetcode/tree/master/2571-find-the-pivot-integer) |
