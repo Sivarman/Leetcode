@@ -14,6 +14,7 @@
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Sivarman/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1610-xor-operation-in-an-array](https://github.com/Sivarman/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1965-sum-of-digits-in-base-k](https://github.com/Sivarman/Leetcode/tree/master/1965-sum-of-digits-in-base-k) |
+| [2083-three-divisors](https://github.com/Sivarman/Leetcode/tree/master/2083-three-divisors) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Sivarman/Leetcode/tree/master/2238-a-number-after-a-double-reversal) |
 | [2481-strictly-palindromic-number](https://github.com/Sivarman/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2507-number-of-common-factors](https://github.com/Sivarman/Leetcode/tree/master/2507-number-of-common-factors) |
@@ -299,6 +300,7 @@
 | ------- |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Sivarman/Leetcode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1656-count-good-triplets](https://github.com/Sivarman/Leetcode/tree/master/1656-count-good-triplets) |
+| [2083-three-divisors](https://github.com/Sivarman/Leetcode/tree/master/2083-three-divisors) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Sivarman/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2507-number-of-common-factors](https://github.com/Sivarman/Leetcode/tree/master/2507-number-of-common-factors) |
 ## Greedy
@@ -309,6 +311,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [2083-three-divisors](https://github.com/Sivarman/Leetcode/tree/master/2083-three-divisors) |
 | [2507-number-of-common-factors](https://github.com/Sivarman/Leetcode/tree/master/2507-number-of-common-factors) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/Sivarman/Leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Brainteaser
