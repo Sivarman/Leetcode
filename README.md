@@ -74,6 +74,7 @@
 | [2210-find-target-indices-after-sorting-array](https://github.com/Sivarman/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Sivarman/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Sivarman/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Sivarman/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Sivarman/Leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Sivarman/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2486-most-frequent-even-element](https://github.com/Sivarman/Leetcode/tree/master/2486-most-frequent-even-element) |
@@ -122,6 +123,7 @@
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Sivarman/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Sivarman/Leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Sivarman/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Sivarman/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Sivarman/Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Sivarman/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2486-most-frequent-even-element](https://github.com/Sivarman/Leetcode/tree/master/2486-most-frequent-even-element) |
@@ -248,6 +250,7 @@
 | [1505-create-target-array-in-the-given-order](https://github.com/Sivarman/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [2048-build-array-from-permutation](https://github.com/Sivarman/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Sivarman/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Sivarman/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Sivarman/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2886-faulty-keyboard](https://github.com/Sivarman/Leetcode/tree/master/2886-faulty-keyboard) |
 | [3226-minimum-number-game](https://github.com/Sivarman/Leetcode/tree/master/3226-minimum-number-game) |
@@ -274,6 +277,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sivarman/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1970-sorting-the-sentence](https://github.com/Sivarman/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Sivarman/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Sivarman/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Sivarman/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3226-minimum-number-game](https://github.com/Sivarman/Leetcode/tree/master/3226-minimum-number-game) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Sivarman/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
