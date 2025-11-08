@@ -28,6 +28,7 @@
 | [3567-convert-date-to-binary](https://github.com/Sivarman/Leetcode/tree/master/3567-convert-date-to-binary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sivarman/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Sivarman/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Sivarman/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sivarman/Leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/Sivarman/Leetcode/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/Sivarman/Leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
@@ -183,6 +184,7 @@
 | [3408-count-the-number-of-special-characters-i](https://github.com/Sivarman/Leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3567-convert-date-to-binary](https://github.com/Sivarman/Leetcode/tree/master/3567-convert-date-to-binary) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Sivarman/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Sivarman/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/Sivarman/Leetcode/tree/master/3811-reverse-degree-of-a-string) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Sivarman/Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Bit Manipulation
@@ -259,6 +261,7 @@
 | [2886-faulty-keyboard](https://github.com/Sivarman/Leetcode/tree/master/2886-faulty-keyboard) |
 | [3226-minimum-number-game](https://github.com/Sivarman/Leetcode/tree/master/3226-minimum-number-game) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Sivarman/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Sivarman/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/Sivarman/Leetcode/tree/master/3811-reverse-degree-of-a-string) |
 | [4058-compute-alternating-sum](https://github.com/Sivarman/Leetcode/tree/master/4058-compute-alternating-sum) |
 ## String Matching
@@ -322,6 +325,7 @@
 | ------- |
 | [2083-three-divisors](https://github.com/Sivarman/Leetcode/tree/master/2083-three-divisors) |
 | [2507-number-of-common-factors](https://github.com/Sivarman/Leetcode/tree/master/2507-number-of-common-factors) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Sivarman/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/Sivarman/Leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Brainteaser
 |  |
@@ -331,4 +335,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Sivarman/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Combinatorics
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Sivarman/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
