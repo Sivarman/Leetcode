@@ -25,6 +25,7 @@
 | [2752-sum-multiples](https://github.com/Sivarman/Leetcode/tree/master/2752-sum-multiples) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/Sivarman/Leetcode/tree/master/2824-check-if-the-number-is-fascinating) |
 | [3055-maximum-odd-binary-number](https://github.com/Sivarman/Leetcode/tree/master/3055-maximum-odd-binary-number) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sivarman/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sivarman/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Sivarman/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3567-convert-date-to-binary](https://github.com/Sivarman/Leetcode/tree/master/3567-convert-date-to-binary) |
@@ -94,6 +95,7 @@
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Sivarman/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Sivarman/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/Sivarman/Leetcode/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sivarman/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3226-minimum-number-game](https://github.com/Sivarman/Leetcode/tree/master/3226-minimum-number-game) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Sivarman/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Sivarman/Leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
