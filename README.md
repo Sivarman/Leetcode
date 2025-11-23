@@ -58,6 +58,7 @@
 | [1319-unique-number-of-occurrences](https://github.com/Sivarman/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Sivarman/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Sivarman/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Sivarman/Leetcode/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Sivarman/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sivarman/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Sivarman/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
