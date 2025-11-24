@@ -55,6 +55,7 @@
 | [0414-third-maximum-number](https://github.com/Sivarman/Leetcode/tree/master/0414-third-maximum-number) |
 | [0500-keyboard-row](https://github.com/Sivarman/Leetcode/tree/master/0500-keyboard-row) |
 | [0724-find-pivot-index](https://github.com/Sivarman/Leetcode/tree/master/0724-find-pivot-index) |
+| [0912-sort-an-array](https://github.com/Sivarman/Leetcode/tree/master/0912-sort-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Sivarman/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Sivarman/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Sivarman/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -253,6 +254,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sivarman/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0912-sort-an-array](https://github.com/Sivarman/Leetcode/tree/master/0912-sort-an-array) |
 ## Stack
 |  |
 | ------- |
@@ -290,6 +292,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/Sivarman/Leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Sivarman/Leetcode/tree/master/0414-third-maximum-number) |
+| [0912-sort-an-array](https://github.com/Sivarman/Leetcode/tree/master/0912-sort-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Sivarman/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sivarman/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1970-sorting-the-sentence](https://github.com/Sivarman/Leetcode/tree/master/1970-sorting-the-sentence) |
@@ -310,10 +313,12 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/Sivarman/Leetcode/tree/master/0912-sort-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sivarman/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/Sivarman/Leetcode/tree/master/0912-sort-an-array) |
 | [3226-minimum-number-game](https://github.com/Sivarman/Leetcode/tree/master/3226-minimum-number-game) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Sivarman/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Enumeration
@@ -348,4 +353,16 @@
 |  |
 | ------- |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Sivarman/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Sivarman/Leetcode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Sivarman/Leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Sivarman/Leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
