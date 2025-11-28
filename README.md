@@ -190,6 +190,7 @@
 | [2886-faulty-keyboard](https://github.com/Sivarman/Leetcode/tree/master/2886-faulty-keyboard) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Sivarman/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3055-maximum-odd-binary-number](https://github.com/Sivarman/Leetcode/tree/master/3055-maximum-odd-binary-number) |
+| [3340-check-balanced-string](https://github.com/Sivarman/Leetcode/tree/master/3340-check-balanced-string) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Sivarman/Leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3567-convert-date-to-binary](https://github.com/Sivarman/Leetcode/tree/master/3567-convert-date-to-binary) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Sivarman/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
