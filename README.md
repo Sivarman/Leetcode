@@ -136,6 +136,7 @@
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Sivarman/Leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Sivarman/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Sivarman/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2325-decode-the-message](https://github.com/Sivarman/Leetcode/tree/master/2325-decode-the-message) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Sivarman/Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Sivarman/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2486-most-frequent-even-element](https://github.com/Sivarman/Leetcode/tree/master/2486-most-frequent-even-element) |
@@ -184,6 +185,7 @@
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Sivarman/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Sivarman/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2235-capitalize-the-title](https://github.com/Sivarman/Leetcode/tree/master/2235-capitalize-the-title) |
+| [2325-decode-the-message](https://github.com/Sivarman/Leetcode/tree/master/2325-decode-the-message) |
 | [2365-percentage-of-letter-in-string](https://github.com/Sivarman/Leetcode/tree/master/2365-percentage-of-letter-in-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Sivarman/Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Sivarman/Leetcode/tree/master/2594-count-pairs-of-similar-strings) |
