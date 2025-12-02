@@ -101,6 +101,7 @@
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sivarman/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3226-minimum-number-game](https://github.com/Sivarman/Leetcode/tree/master/3226-minimum-number-game) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Sivarman/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3248-snake-in-matrix](https://github.com/Sivarman/Leetcode/tree/master/3248-snake-in-matrix) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Sivarman/Leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Sivarman/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Sivarman/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -196,6 +197,7 @@
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Sivarman/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3055-maximum-odd-binary-number](https://github.com/Sivarman/Leetcode/tree/master/3055-maximum-odd-binary-number) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Sivarman/Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
+| [3248-snake-in-matrix](https://github.com/Sivarman/Leetcode/tree/master/3248-snake-in-matrix) |
 | [3340-check-balanced-string](https://github.com/Sivarman/Leetcode/tree/master/3340-check-balanced-string) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Sivarman/Leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3567-convert-date-to-binary](https://github.com/Sivarman/Leetcode/tree/master/3567-convert-date-to-binary) |
@@ -278,6 +280,7 @@
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Sivarman/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2886-faulty-keyboard](https://github.com/Sivarman/Leetcode/tree/master/2886-faulty-keyboard) |
 | [3226-minimum-number-game](https://github.com/Sivarman/Leetcode/tree/master/3226-minimum-number-game) |
+| [3248-snake-in-matrix](https://github.com/Sivarman/Leetcode/tree/master/3248-snake-in-matrix) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Sivarman/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Sivarman/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/Sivarman/Leetcode/tree/master/3811-reverse-degree-of-a-string) |
