@@ -66,6 +66,7 @@
 | [1505-create-target-array-in-the-given-order](https://github.com/Sivarman/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Sivarman/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Sivarman/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1528-shuffle-string](https://github.com/Sivarman/Leetcode/tree/master/1528-shuffle-string) |
 | [1603-running-sum-of-1d-array](https://github.com/Sivarman/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1656-count-good-triplets](https://github.com/Sivarman/Leetcode/tree/master/1656-count-good-triplets) |
 | [1677-matrix-diagonal-sum](https://github.com/Sivarman/Leetcode/tree/master/1677-matrix-diagonal-sum) |
@@ -171,6 +172,7 @@
 | [1205-defanging-an-ip-address](https://github.com/Sivarman/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Sivarman/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Sivarman/Leetcode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
+| [1528-shuffle-string](https://github.com/Sivarman/Leetcode/tree/master/1528-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Sivarman/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sivarman/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Sivarman/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
