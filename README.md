@@ -56,6 +56,7 @@
 | [0414-third-maximum-number](https://github.com/Sivarman/Leetcode/tree/master/0414-third-maximum-number) |
 | [0500-keyboard-row](https://github.com/Sivarman/Leetcode/tree/master/0500-keyboard-row) |
 | [0724-find-pivot-index](https://github.com/Sivarman/Leetcode/tree/master/0724-find-pivot-index) |
+| [0804-unique-morse-code-words](https://github.com/Sivarman/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0912-sort-an-array](https://github.com/Sivarman/Leetcode/tree/master/0912-sort-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Sivarman/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Sivarman/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -124,6 +125,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Sivarman/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0500-keyboard-row](https://github.com/Sivarman/Leetcode/tree/master/0500-keyboard-row) |
 | [0782-jewels-and-stones](https://github.com/Sivarman/Leetcode/tree/master/0782-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/Sivarman/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sivarman/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Sivarman/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1319-unique-number-of-occurrences](https://github.com/Sivarman/Leetcode/tree/master/1319-unique-number-of-occurrences) |
@@ -168,6 +170,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sivarman/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/Sivarman/Leetcode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/Sivarman/Leetcode/tree/master/0782-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/Sivarman/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sivarman/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1205-defanging-an-ip-address](https://github.com/Sivarman/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Sivarman/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
