@@ -73,6 +73,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/Sivarman/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1656-count-good-triplets](https://github.com/Sivarman/Leetcode/tree/master/1656-count-good-triplets) |
 | [1677-matrix-diagonal-sum](https://github.com/Sivarman/Leetcode/tree/master/1677-matrix-diagonal-sum) |
+| [1701-average-waiting-time](https://github.com/Sivarman/Leetcode/tree/master/1701-average-waiting-time) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Sivarman/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sivarman/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/Sivarman/Leetcode/tree/master/1791-richest-customer-wealth) |
@@ -283,6 +284,7 @@
 |  |
 | ------- |
 | [1505-create-target-array-in-the-given-order](https://github.com/Sivarman/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
+| [1701-average-waiting-time](https://github.com/Sivarman/Leetcode/tree/master/1701-average-waiting-time) |
 | [2048-build-array-from-permutation](https://github.com/Sivarman/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Sivarman/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Sivarman/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
