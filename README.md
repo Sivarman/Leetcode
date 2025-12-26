@@ -108,6 +108,7 @@
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Sivarman/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Sivarman/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Sivarman/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Sivarman/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Sivarman/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/Sivarman/Leetcode/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sivarman/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -340,6 +341,7 @@
 | [2210-find-target-indices-after-sorting-array](https://github.com/Sivarman/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Sivarman/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Sivarman/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Sivarman/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3226-minimum-number-game](https://github.com/Sivarman/Leetcode/tree/master/3226-minimum-number-game) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Sivarman/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Sivarman/Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
@@ -374,6 +376,7 @@
 |  |
 | ------- |
 | [3055-maximum-odd-binary-number](https://github.com/Sivarman/Leetcode/tree/master/3055-maximum-odd-binary-number) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Sivarman/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Sivarman/Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Number Theory
 |  |
