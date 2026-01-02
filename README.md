@@ -63,6 +63,7 @@
 | [0724-find-pivot-index](https://github.com/Sivarman/Leetcode/tree/master/0724-find-pivot-index) |
 | [0804-unique-morse-code-words](https://github.com/Sivarman/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0912-sort-an-array](https://github.com/Sivarman/Leetcode/tree/master/0912-sort-an-array) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Sivarman/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1037-valid-boomerang](https://github.com/Sivarman/Leetcode/tree/master/1037-valid-boomerang) |
 | [1319-unique-number-of-occurrences](https://github.com/Sivarman/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sivarman/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -141,6 +142,7 @@
 | [0782-jewels-and-stones](https://github.com/Sivarman/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/Sivarman/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sivarman/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Sivarman/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Sivarman/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1319-unique-number-of-occurrences](https://github.com/Sivarman/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Sivarman/Leetcode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
