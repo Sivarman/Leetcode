@@ -2,7 +2,7 @@
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Math
-|  
+|  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sivarman/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Sivarman/Leetcode/tree/master/0009-palindrome-number) |
@@ -11,6 +11,7 @@
 | [0268-missing-number](https://github.com/Sivarman/Leetcode/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/Sivarman/Leetcode/tree/master/0507-perfect-number) |
 | [1037-valid-boomerang](https://github.com/Sivarman/Leetcode/tree/master/1037-valid-boomerang) |
+| [1390-four-divisors](https://github.com/Sivarman/Leetcode/tree/master/1390-four-divisors) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Sivarman/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Sivarman/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Sivarman/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -67,6 +68,7 @@
 | [1037-valid-boomerang](https://github.com/Sivarman/Leetcode/tree/master/1037-valid-boomerang) |
 | [1319-unique-number-of-occurrences](https://github.com/Sivarman/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sivarman/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1390-four-divisors](https://github.com/Sivarman/Leetcode/tree/master/1390-four-divisors) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Sivarman/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Sivarman/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Sivarman/Leetcode/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
