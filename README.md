@@ -61,6 +61,7 @@
 | [0169-majority-element](https://github.com/Sivarman/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Sivarman/Leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Sivarman/Leetcode/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Sivarman/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0500-keyboard-row](https://github.com/Sivarman/Leetcode/tree/master/0500-keyboard-row) |
 | [0724-find-pivot-index](https://github.com/Sivarman/Leetcode/tree/master/0724-find-pivot-index) |
 | [0804-unique-morse-code-words](https://github.com/Sivarman/Leetcode/tree/master/0804-unique-morse-code-words) |
@@ -143,6 +144,7 @@
 | [0169-majority-element](https://github.com/Sivarman/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Sivarman/Leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sivarman/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Sivarman/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0500-keyboard-row](https://github.com/Sivarman/Leetcode/tree/master/0500-keyboard-row) |
 | [0782-jewels-and-stones](https://github.com/Sivarman/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/Sivarman/Leetcode/tree/master/0804-unique-morse-code-words) |
@@ -355,6 +357,7 @@
 | [0169-majority-element](https://github.com/Sivarman/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Sivarman/Leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Sivarman/Leetcode/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Sivarman/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0912-sort-an-array](https://github.com/Sivarman/Leetcode/tree/master/0912-sort-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Sivarman/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sivarman/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
