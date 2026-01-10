@@ -90,6 +90,7 @@
 | [1791-richest-customer-wealth](https://github.com/Sivarman/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1839-decode-xored-array](https://github.com/Sivarman/Leetcode/tree/master/1839-decode-xored-array) |
 | [1848-sum-of-unique-elements](https://github.com/Sivarman/Leetcode/tree/master/1848-sum-of-unique-elements) |
+| [1929-concatenation-of-array](https://github.com/Sivarman/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1944-truncate-sentence](https://github.com/Sivarman/Leetcode/tree/master/1944-truncate-sentence) |
 | [2048-build-array-from-permutation](https://github.com/Sivarman/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2102-find-the-middle-index-in-array](https://github.com/Sivarman/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
@@ -322,6 +323,7 @@
 | ------- |
 | [1505-create-target-array-in-the-given-order](https://github.com/Sivarman/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1701-average-waiting-time](https://github.com/Sivarman/Leetcode/tree/master/1701-average-waiting-time) |
+| [1929-concatenation-of-array](https://github.com/Sivarman/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2048-build-array-from-permutation](https://github.com/Sivarman/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Sivarman/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sivarman/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
