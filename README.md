@@ -107,6 +107,7 @@
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Sivarman/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Sivarman/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Sivarman/Leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sivarman/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Sivarman/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Sivarman/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Sivarman/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -169,6 +170,7 @@
 | [2190-count-common-words-with-one-occurrence](https://github.com/Sivarman/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Sivarman/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2325-decode-the-message](https://github.com/Sivarman/Leetcode/tree/master/2325-decode-the-message) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sivarman/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Sivarman/Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Sivarman/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Sivarman/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -335,6 +337,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/Sivarman/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Sivarman/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Sivarman/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sivarman/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Sivarman/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2886-faulty-keyboard](https://github.com/Sivarman/Leetcode/tree/master/2886-faulty-keyboard) |
 | [3226-minimum-number-game](https://github.com/Sivarman/Leetcode/tree/master/3226-minimum-number-game) |
@@ -371,6 +374,7 @@
 | [1970-sorting-the-sentence](https://github.com/Sivarman/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Sivarman/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Sivarman/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sivarman/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Sivarman/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Sivarman/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3226-minimum-number-game](https://github.com/Sivarman/Leetcode/tree/master/3226-minimum-number-game) |
@@ -393,6 +397,7 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Sivarman/Leetcode/tree/master/0912-sort-an-array) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sivarman/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3226-minimum-number-game](https://github.com/Sivarman/Leetcode/tree/master/3226-minimum-number-game) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Sivarman/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Enumeration
@@ -406,6 +411,7 @@
 ## Greedy
 |  |
 | ------- |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sivarman/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3055-maximum-odd-binary-number](https://github.com/Sivarman/Leetcode/tree/master/3055-maximum-odd-binary-number) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Sivarman/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Sivarman/Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
