@@ -30,6 +30,7 @@
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sivarman/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2752-sum-multiples](https://github.com/Sivarman/Leetcode/tree/master/2752-sum-multiples) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/Sivarman/Leetcode/tree/master/2824-check-if-the-number-is-fascinating) |
+| [2843-count-symmetric-integers](https://github.com/Sivarman/Leetcode/tree/master/2843-count-symmetric-integers) |
 | [3055-maximum-odd-binary-number](https://github.com/Sivarman/Leetcode/tree/master/3055-maximum-odd-binary-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sivarman/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sivarman/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -408,6 +409,7 @@
 | [2083-three-divisors](https://github.com/Sivarman/Leetcode/tree/master/2083-three-divisors) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Sivarman/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2507-number-of-common-factors](https://github.com/Sivarman/Leetcode/tree/master/2507-number-of-common-factors) |
+| [2843-count-symmetric-integers](https://github.com/Sivarman/Leetcode/tree/master/2843-count-symmetric-integers) |
 ## Greedy
 |  |
 | ------- |
