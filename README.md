@@ -10,6 +10,7 @@
 | [0066-plus-one](https://github.com/Sivarman/Leetcode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Sivarman/Leetcode/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/Sivarman/Leetcode/tree/master/0507-perfect-number) |
+| [0728-self-dividing-numbers](https://github.com/Sivarman/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [1037-valid-boomerang](https://github.com/Sivarman/Leetcode/tree/master/1037-valid-boomerang) |
 | [1390-four-divisors](https://github.com/Sivarman/Leetcode/tree/master/1390-four-divisors) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Sivarman/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
