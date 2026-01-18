@@ -8,6 +8,7 @@
 | [0009-palindrome-number](https://github.com/Sivarman/Leetcode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Sivarman/Leetcode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/Sivarman/Leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Sivarman/Leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Sivarman/Leetcode/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/Sivarman/Leetcode/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/Sivarman/Leetcode/tree/master/0728-self-dividing-numbers) |
@@ -311,6 +312,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sivarman/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/Sivarman/Leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Sivarman/Leetcode/tree/master/0268-missing-number) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sivarman/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Sivarman/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
