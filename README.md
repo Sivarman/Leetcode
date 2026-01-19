@@ -12,6 +12,7 @@
 | [0268-missing-number](https://github.com/Sivarman/Leetcode/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/Sivarman/Leetcode/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/Sivarman/Leetcode/tree/master/0728-self-dividing-numbers) |
+| [0989-add-to-array-form-of-integer](https://github.com/Sivarman/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1037-valid-boomerang](https://github.com/Sivarman/Leetcode/tree/master/1037-valid-boomerang) |
 | [1390-four-divisors](https://github.com/Sivarman/Leetcode/tree/master/1390-four-divisors) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Sivarman/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -71,6 +72,7 @@
 | [0804-unique-morse-code-words](https://github.com/Sivarman/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0912-sort-an-array](https://github.com/Sivarman/Leetcode/tree/master/0912-sort-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Sivarman/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0989-add-to-array-form-of-integer](https://github.com/Sivarman/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1037-valid-boomerang](https://github.com/Sivarman/Leetcode/tree/master/1037-valid-boomerang) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Sivarman/Leetcode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Sivarman/Leetcode/tree/master/1319-unique-number-of-occurrences) |
