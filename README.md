@@ -255,6 +255,7 @@
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Sivarman/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Sivarman/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/Sivarman/Leetcode/tree/master/3775-reverse-words-with-same-vowel-count) |
+| [3794-reverse-string-prefix](https://github.com/Sivarman/Leetcode/tree/master/3794-reverse-string-prefix) |
 | [3811-reverse-degree-of-a-string](https://github.com/Sivarman/Leetcode/tree/master/3811-reverse-degree-of-a-string) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Sivarman/Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Bit Manipulation
@@ -315,6 +316,7 @@
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Sivarman/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Sivarman/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/Sivarman/Leetcode/tree/master/3775-reverse-words-with-same-vowel-count) |
+| [3794-reverse-string-prefix](https://github.com/Sivarman/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## Binary Search
 |  |
 | ------- |
