@@ -10,6 +10,7 @@
 | [0066-plus-one](https://github.com/Sivarman/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Sivarman/Leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Sivarman/Leetcode/tree/master/0268-missing-number) |
+| [0415-add-strings](https://github.com/Sivarman/Leetcode/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/Sivarman/Leetcode/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/Sivarman/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0989-add-to-array-form-of-integer](https://github.com/Sivarman/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
@@ -207,6 +208,7 @@
 | [0344-reverse-string](https://github.com/Sivarman/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sivarman/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sivarman/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0415-add-strings](https://github.com/Sivarman/Leetcode/tree/master/0415-add-strings) |
 | [0500-keyboard-row](https://github.com/Sivarman/Leetcode/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/Sivarman/Leetcode/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sivarman/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -342,6 +344,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/Sivarman/Leetcode/tree/master/0415-add-strings) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Sivarman/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1701-average-waiting-time](https://github.com/Sivarman/Leetcode/tree/master/1701-average-waiting-time) |
 | [1929-concatenation-of-array](https://github.com/Sivarman/Leetcode/tree/master/1929-concatenation-of-array) |
