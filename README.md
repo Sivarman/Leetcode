@@ -238,6 +238,7 @@
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Sivarman/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Sivarman/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2235-capitalize-the-title](https://github.com/Sivarman/Leetcode/tree/master/2235-capitalize-the-title) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/Sivarman/Leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2325-decode-the-message](https://github.com/Sivarman/Leetcode/tree/master/2325-decode-the-message) |
 | [2365-percentage-of-letter-in-string](https://github.com/Sivarman/Leetcode/tree/master/2365-percentage-of-letter-in-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Sivarman/Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -424,12 +425,14 @@
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Sivarman/Leetcode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1656-count-good-triplets](https://github.com/Sivarman/Leetcode/tree/master/1656-count-good-triplets) |
 | [2083-three-divisors](https://github.com/Sivarman/Leetcode/tree/master/2083-three-divisors) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/Sivarman/Leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Sivarman/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2507-number-of-common-factors](https://github.com/Sivarman/Leetcode/tree/master/2507-number-of-common-factors) |
 | [2843-count-symmetric-integers](https://github.com/Sivarman/Leetcode/tree/master/2843-count-symmetric-integers) |
 ## Greedy
 |  |
 | ------- |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/Sivarman/Leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sivarman/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3055-maximum-odd-binary-number](https://github.com/Sivarman/Leetcode/tree/master/3055-maximum-odd-binary-number) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Sivarman/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
