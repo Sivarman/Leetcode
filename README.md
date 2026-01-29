@@ -149,6 +149,7 @@
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Sivarman/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3663-find-the-least-frequent-digit](https://github.com/Sivarman/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Sivarman/Leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Sivarman/Leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sivarman/Leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [4008-restore-finishing-order](https://github.com/Sivarman/Leetcode/tree/master/4008-restore-finishing-order) |
 | [4058-compute-alternating-sum](https://github.com/Sivarman/Leetcode/tree/master/4058-compute-alternating-sum) |
@@ -401,6 +402,7 @@
 | [3226-minimum-number-game](https://github.com/Sivarman/Leetcode/tree/master/3226-minimum-number-game) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Sivarman/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sivarman/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Sivarman/Leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Sivarman/Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Prefix Sum
 |  |
