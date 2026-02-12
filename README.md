@@ -46,6 +46,7 @@
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Sivarman/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3663-find-the-least-frequent-digit](https://github.com/Sivarman/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Sivarman/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Sivarman/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sivarman/Leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/Sivarman/Leetcode/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/Sivarman/Leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
