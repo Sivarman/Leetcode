@@ -173,6 +173,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sivarman/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Sivarman/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sivarman/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1796-second-largest-digit-in-a-string](https://github.com/Sivarman/Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1848-sum-of-unique-elements](https://github.com/Sivarman/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Sivarman/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Sivarman/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -226,6 +227,7 @@
 | [1528-shuffle-string](https://github.com/Sivarman/Leetcode/tree/master/1528-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Sivarman/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sivarman/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1796-second-largest-digit-in-a-string](https://github.com/Sivarman/Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Sivarman/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1844-replace-all-digits-with-characters](https://github.com/Sivarman/Leetcode/tree/master/1844-replace-all-digits-with-characters) |
 | [1944-truncate-sentence](https://github.com/Sivarman/Leetcode/tree/master/1944-truncate-sentence) |
