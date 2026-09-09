@@ -280,6 +280,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/Sivarman/Leetcode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/Sivarman/Leetcode/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/Sivarman/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Sivarman/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Sivarman/Leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Sivarman/Leetcode/tree/master/0338-counting-bits) |
@@ -357,6 +358,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sivarman/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/Sivarman/Leetcode/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/Sivarman/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Sivarman/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0912-sort-an-array](https://github.com/Sivarman/Leetcode/tree/master/0912-sort-an-array) |
 ## Stack
