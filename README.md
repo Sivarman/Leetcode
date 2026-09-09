@@ -280,6 +280,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/Sivarman/Leetcode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/Sivarman/Leetcode/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/Sivarman/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Sivarman/Leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Sivarman/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [1610-xor-operation-in-an-array](https://github.com/Sivarman/Leetcode/tree/master/1610-xor-operation-in-an-array) |
@@ -355,6 +356,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sivarman/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/Sivarman/Leetcode/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/Sivarman/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0912-sort-an-array](https://github.com/Sivarman/Leetcode/tree/master/0912-sort-an-array) |
 ## Stack
 |  |
