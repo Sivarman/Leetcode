@@ -70,6 +70,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sivarman/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0056-merge-intervals](https://github.com/Sivarman/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Sivarman/Leetcode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/Sivarman/Leetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sivarman/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -408,6 +409,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Sivarman/Leetcode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/Sivarman/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Sivarman/Leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Sivarman/Leetcode/tree/master/0414-third-maximum-number) |
@@ -504,4 +506,8 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Sivarman/Leetcode/tree/master/0141-linked-list-cycle) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Sivarman/Leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
