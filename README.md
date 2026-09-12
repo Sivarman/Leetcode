@@ -78,6 +78,7 @@
 | [0169-majority-element](https://github.com/Sivarman/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Sivarman/Leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Sivarman/Leetcode/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/Sivarman/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sivarman/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0500-keyboard-row](https://github.com/Sivarman/Leetcode/tree/master/0500-keyboard-row) |
 | [0724-find-pivot-index](https://github.com/Sivarman/Leetcode/tree/master/0724-find-pivot-index) |
@@ -400,6 +401,7 @@
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sivarman/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/Sivarman/Leetcode/tree/master/0338-counting-bits) |
+| [0435-non-overlapping-intervals](https://github.com/Sivarman/Leetcode/tree/master/0435-non-overlapping-intervals) |
 ## Matrix
 |  |
 | ------- |
@@ -413,6 +415,7 @@
 | [0169-majority-element](https://github.com/Sivarman/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Sivarman/Leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Sivarman/Leetcode/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/Sivarman/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sivarman/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0912-sort-an-array](https://github.com/Sivarman/Leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sivarman/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -462,6 +465,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/Sivarman/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Sivarman/Leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sivarman/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3055-maximum-odd-binary-number](https://github.com/Sivarman/Leetcode/tree/master/3055-maximum-odd-binary-number) |
