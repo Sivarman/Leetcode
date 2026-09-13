@@ -91,6 +91,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Sivarman/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/Sivarman/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1037-valid-boomerang](https://github.com/Sivarman/Leetcode/tree/master/1037-valid-boomerang) |
+| [1046-last-stone-weight](https://github.com/Sivarman/Leetcode/tree/master/1046-last-stone-weight) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Sivarman/Leetcode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Sivarman/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sivarman/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -459,6 +460,7 @@
 | [0703-kth-largest-element-in-a-stream](https://github.com/Sivarman/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0912-sort-an-array](https://github.com/Sivarman/Leetcode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Sivarman/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/Sivarman/Leetcode/tree/master/1046-last-stone-weight) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sivarman/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3226-minimum-number-game](https://github.com/Sivarman/Leetcode/tree/master/3226-minimum-number-game) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Sivarman/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
