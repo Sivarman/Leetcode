@@ -71,6 +71,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sivarman/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0055-jump-game](https://github.com/Sivarman/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Sivarman/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Sivarman/Leetcode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/Sivarman/Leetcode/tree/master/0066-plus-one) |
@@ -405,6 +406,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Sivarman/Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sivarman/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/Sivarman/Leetcode/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/Sivarman/Leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -477,6 +479,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Sivarman/Leetcode/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/Sivarman/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Sivarman/Leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sivarman/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
