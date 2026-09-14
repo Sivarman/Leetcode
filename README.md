@@ -233,6 +233,7 @@
 | [0500-keyboard-row](https://github.com/Sivarman/Leetcode/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/Sivarman/Leetcode/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sivarman/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0678-valid-parenthesis-string](https://github.com/Sivarman/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0742-to-lower-case](https://github.com/Sivarman/Leetcode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/Sivarman/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/Sivarman/Leetcode/tree/master/0804-unique-morse-code-words) |
@@ -377,6 +378,7 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Sivarman/Leetcode/tree/master/0143-reorder-list) |
+| [0678-valid-parenthesis-string](https://github.com/Sivarman/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [2128-reverse-prefix-of-word](https://github.com/Sivarman/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 ## Simulation
 |  |
@@ -413,6 +415,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sivarman/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/Sivarman/Leetcode/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/Sivarman/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0678-valid-parenthesis-string](https://github.com/Sivarman/Leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Matrix
 |  |
 | ------- |
@@ -484,6 +487,7 @@
 | ------- |
 | [0055-jump-game](https://github.com/Sivarman/Leetcode/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/Sivarman/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0678-valid-parenthesis-string](https://github.com/Sivarman/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Sivarman/Leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sivarman/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3055-maximum-odd-binary-number](https://github.com/Sivarman/Leetcode/tree/master/3055-maximum-odd-binary-number) |
@@ -562,4 +566,8 @@
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Sivarman/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Sivarman/Leetcode/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
