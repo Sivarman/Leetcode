@@ -181,6 +181,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Sivarman/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sivarman/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0500-keyboard-row](https://github.com/Sivarman/Leetcode/tree/master/0500-keyboard-row) |
+| [0763-partition-labels](https://github.com/Sivarman/Leetcode/tree/master/0763-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/Sivarman/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/Sivarman/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0846-hand-of-straights](https://github.com/Sivarman/Leetcode/tree/master/0846-hand-of-straights) |
@@ -238,6 +239,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sivarman/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0678-valid-parenthesis-string](https://github.com/Sivarman/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0742-to-lower-case](https://github.com/Sivarman/Leetcode/tree/master/0742-to-lower-case) |
+| [0763-partition-labels](https://github.com/Sivarman/Leetcode/tree/master/0763-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/Sivarman/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/Sivarman/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0917-reverse-only-letters](https://github.com/Sivarman/Leetcode/tree/master/0917-reverse-only-letters) |
@@ -340,6 +342,7 @@
 | [0344-reverse-string](https://github.com/Sivarman/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sivarman/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sivarman/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0763-partition-labels](https://github.com/Sivarman/Leetcode/tree/master/0763-partition-labels) |
 | [0908-middle-of-the-linked-list](https://github.com/Sivarman/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/Sivarman/Leetcode/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sivarman/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -492,6 +495,7 @@
 | [0055-jump-game](https://github.com/Sivarman/Leetcode/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/Sivarman/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/Sivarman/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0763-partition-labels](https://github.com/Sivarman/Leetcode/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/Sivarman/Leetcode/tree/master/0846-hand-of-straights) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/Sivarman/Leetcode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Sivarman/Leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
