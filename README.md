@@ -118,6 +118,7 @@
 | [1791-richest-customer-wealth](https://github.com/Sivarman/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1839-decode-xored-array](https://github.com/Sivarman/Leetcode/tree/master/1839-decode-xored-array) |
 | [1848-sum-of-unique-elements](https://github.com/Sivarman/Leetcode/tree/master/1848-sum-of-unique-elements) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/Sivarman/Leetcode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1929-concatenation-of-array](https://github.com/Sivarman/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1944-truncate-sentence](https://github.com/Sivarman/Leetcode/tree/master/1944-truncate-sentence) |
 | [2048-build-array-from-permutation](https://github.com/Sivarman/Leetcode/tree/master/2048-build-array-from-permutation) |
@@ -492,6 +493,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Sivarman/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/Sivarman/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0846-hand-of-straights](https://github.com/Sivarman/Leetcode/tree/master/0846-hand-of-straights) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/Sivarman/Leetcode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Sivarman/Leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sivarman/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3055-maximum-odd-binary-number](https://github.com/Sivarman/Leetcode/tree/master/3055-maximum-odd-binary-number) |
